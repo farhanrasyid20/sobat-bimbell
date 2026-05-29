@@ -10,8 +10,8 @@ Pada pengembangan semester 1, sistem difokuskan pada pembuatan fitur dasar seper
 
 ## Informasi Proyek
 - Judul Besar: Sistem Informasi Sobat Bimbel
-- Tahun Ajaran: 2023/2024
-- Nama Tim: IF-2MA-XX
+- Tahun Ajaran: 2024/2025
+- Nama Tim: IF-2MA-07
 - Judul Tim: Sobat Bimbel
 - Platform: Web Application
 - Teknologi: PHP Native, MySQL, Bootstrap
