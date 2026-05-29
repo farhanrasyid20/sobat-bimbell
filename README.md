@@ -1,6 +1,6 @@
 # Proyek Sobat Bimbel Semester 1
 
-- Kode Tim: IF-2MA-04
+- Kode Tim: IF-1MA-04
 - Judul: Sistem Informasi Sobat Bimbel
 
 ## Deskripsi Permasalahan
@@ -20,11 +20,11 @@ Pada pengembangan semester 1, sistem difokuskan pada pembuatan fitur dasar seper
 
 | No | Nama | NIM | Program Studi | Kelas | Peran |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Arief Rafi Khairan Utama | 3312411080 | Teknik Informatika | IF 1A Malam | Ketua |
-| 2 | Bagus Tri Wibowo | 3312411073 | Teknik Informatika | IF 1A Malam | Anggota |
-| 3 | Farhan Rasyid | 3312411075 | Teknik Informatika | IF 1A Malam | Anggota |
-| 4 | Aulya Anantha | 3312411076 | Teknik Informatika | IF 1A Malam | Anggota |
-| 5 | Anisa Frity Amelia | 3312411077 | Teknik Informatika | IF 1A Malam | Anggota |
+| 1 | Arief Rafi Khairan Utama | 3312411080 | Teknik Informatika | IF 1C Malam | Ketua |
+| 2 | Bagus Tri Wibowo | 3312411073 | Teknik Informatika | IF 1C Malam | Anggota |
+| 3 | Farhan Rasyid | 3312411075 | Teknik Informatika | IF 1C Malam | Anggota |
+| 4 | Aulya Anantha | 3312411076 | Teknik Informatika | IF 1C Malam | Anggota |
+| 5 | Anisa Frity Amelia | 3312411077 | Teknik Informatika | IF 1C Malam | Anggota |
 
 ## Fitur Utama
 - Login Multi User
